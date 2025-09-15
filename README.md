@@ -30,6 +30,7 @@ It simulates how software teams collaborate and manage code in GitHub.
       │            │
       └─────► Conflict Resolved
 
+
 ---
 
 ## 🔹 Steps Implemented
